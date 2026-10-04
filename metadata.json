@@ -1,0 +1,6 @@
+{
+  "name": "Mindustry Music Manager Mod Studio",
+  "description": "Complete Music Manager mod for Mindustry with Ctrl+M shortcut, 'your-music' folder support, in-game simulator, and 1-click mod exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

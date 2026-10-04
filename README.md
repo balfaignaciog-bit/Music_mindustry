@@ -1,2 +1,20 @@
-# Music_mindustry
-mod de musica, la musica la añades tu en la carpeta "your music" y con ella podras escuchar tus temas favoritos, tambien tendra lo mas cercano a una app de musica en movil, para disfrutar, tambien se añadio un deslizador para reposicionar el momento de la musica
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/f42f6668-07d2-4e5e-9d3c-5d7125ece405
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
